@@ -11,7 +11,7 @@ https://ultrakid.tistory.com/21
 
 1. Anaconda 가상환경 생성 후 git clone으로 Mask rcnn 다운
 2. 필요한 버전의 tensorflow, keras 등 설치
-3. 모델을 이용하여 inference 실행
+3. metterport에서 제공하는 ballon dataset과 모델을 이용하여 inference 실행
 4. samples/ballon에 실행완료된 inference 이미지 확인
 
 
